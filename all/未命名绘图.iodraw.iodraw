@@ -22,7 +22,7 @@
         <mxCell id="fIBabIXxd2TRNi0DZl-d-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PET_NAME&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fIBabIXxd2TRNi0DZl-d-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CUST_ADD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIBabIXxd2TRNi0DZl-d-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PROCEDURE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1035" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fIBabIXxd2TRNi0DZl-d-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CUST_POST&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
