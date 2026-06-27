@@ -16,7 +16,7 @@
         <mxCell id="fIBabIXxd2TRNi0DZl-d-5" value="CUST_ADD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fIBabIXxd2TRNi0DZl-d-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIBabIXxd2TRNi0DZl-d-6" value="CUST_POST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
