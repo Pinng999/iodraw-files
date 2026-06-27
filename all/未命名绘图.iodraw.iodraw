@@ -34,7 +34,7 @@
         <mxCell id="fIBabIXxd2TRNi0DZl-d-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SALE_DATE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fIBabIXxd2TRNi0DZl-d-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIBabIXxd2TRNi0DZl-d-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;VEND_CODE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fIBabIXxd2TRNi0DZl-d-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
