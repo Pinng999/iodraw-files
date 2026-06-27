@@ -34,10 +34,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fIBabIXxd2TRNi0DZl-d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIBabIXxd2TRNi0DZl-d-10" target="fIBabIXxd2TRNi0DZl-d-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="790" />
+              <mxPoint x="440" y="790" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fIBabIXxd2TRNi0DZl-d-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;INV_NUM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fIBabIXxd2TRNi0DZl-d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIBabIXxd2TRNi0DZl-d-11" target="fIBabIXxd2TRNi0DZl-d-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="840" />
+              <mxPoint x="600" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fIBabIXxd2TRNi0DZl-d-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PROD_NUM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
