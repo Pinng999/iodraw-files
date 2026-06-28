@@ -491,7 +491,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3FXwYzBcjYwB5-vlkFH-98" value="&lt;span style=&quot;color: rgb(44, 62, 80); font-size: 13px; background-color: rgb(250, 251, 252);&quot;&gt;name&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="p3FXwYzBcjYwB5-vlkFH-96">
+        <mxCell id="p3FXwYzBcjYwB5-vlkFH-98" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;name&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="p3FXwYzBcjYwB5-vlkFH-96">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
