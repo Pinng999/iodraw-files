@@ -659,7 +659,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3FXwYzBcjYwB5-vlkFH-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3FXwYzBcjYwB5-vlkFH-86" target="p3FXwYzBcjYwB5-vlkFH-131">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="1435" />
+              <mxPoint x="880" y="1540" />
+              <mxPoint x="1135" y="1540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
