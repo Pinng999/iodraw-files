@@ -333,7 +333,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3FXwYzBcjYwB5-vlkFH-65" value="&lt;font color=&quot;#000033&quot; face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgba(0, 0, 0, 0.05);&quot;&gt;amount&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="p3FXwYzBcjYwB5-vlkFH-63">
+        <mxCell id="p3FXwYzBcjYwB5-vlkFH-65" value="&lt;font color=&quot;#000033&quot; face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;amount&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="p3FXwYzBcjYwB5-vlkFH-63">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
