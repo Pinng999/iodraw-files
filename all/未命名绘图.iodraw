@@ -880,8 +880,8 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-58" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2450" width="40" height="300" as="geometry" />
+        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-60" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2430" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
