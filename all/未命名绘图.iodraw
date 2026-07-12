@@ -796,7 +796,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.4904pt; font-family: Calibri-Bold;&quot;&gt;Permanent&lt;/span&gt;&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 11.4904pt; font-family: Calibri-Bold;&quot;&gt;Manager&lt;/span&gt;&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="2570" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZIJXiVu8ZyiqWZ7hFpg7-34">
