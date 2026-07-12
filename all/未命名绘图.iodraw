@@ -888,17 +888,14 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.468;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZIJXiVu8ZyiqWZ7hFpg7-34" target="ZIJXiVu8ZyiqWZ7hFpg7-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ZIJXiVu8ZyiqWZ7hFpg7-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="978" y="2430" as="targetPoint" />
             <mxPoint x="1140" y="2500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-58" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2470" width="40" height="300" as="geometry" />
+        <mxCell id="ZIJXiVu8ZyiqWZ7hFpg7-58" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2480" width="40" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
